@@ -60,4 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or inquiries, please feel free to contact me and follow my updates on Instagram @dro.iddreamer, Medium Dhananjay Yadav on Medium, and LinkedIn Dhananjay Yadav on LinkedIn.
-![image](https://github.com/Dhananjay57/UserFeed/assets/13062553/4283c1fc-c80e-4354-a6f5-5c2eeccaa1ee)

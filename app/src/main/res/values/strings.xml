@@ -3,7 +3,5 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="titel_charcha">Charcha</string>
-    <string name="title_bazar">Bazaar</string>
-    <string name="titel_profile">Profile</string>
+    <string name="titel_feed">Feed</string>
 </resources>

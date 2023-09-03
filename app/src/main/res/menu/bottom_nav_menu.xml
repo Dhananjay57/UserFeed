@@ -3,14 +3,14 @@
 
     <item
         android:id="@+id/navigation_home"
-        android:title="@string/titel_charcha" />
+        android:title="@string/titel_feed" />
 
     <item
         android:id="@+id/navigation_dashboard"
-        android:title="@string/title_bazar" />
+        android:title="@string/title_dashboard" />
 
     <item
         android:id="@+id/navigation_notifications"
-        android:title="@string/titel_profile" />
+        android:title="@string/title_notifications" />
 
 </menu>
